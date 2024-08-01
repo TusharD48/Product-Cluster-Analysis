@@ -46,4 +46,6 @@ Clone the repository:
 - Clustering Algorithms: K-Means, Mini batch K-Means
 - Evaluation Metrics: Silhouette Score, Davies-Bouldin Index.
 - Visualization: Cluster heatmaps, scatter plots, and distribution plots.
-- Results: The optimal number of clusters was determined to be 5 based on the Silhouette Score. The clustering results reveal distinct groups of products with similar characteristics. Detailed results and visualizations can be found in the https://github.com/TusharD48/Product-Cluster-Analysis/blob/main/Product_cluster_analysis_main.ipynb/ directory.
+- 
+# Results
+The optimal number of clusters was determined to be 5 based on the Silhouette Score. The clustering results reveal distinct groups of products with similar characteristics. Detailed results and visualizations can be found in the https://github.com/TusharD48/Product-Cluster-Analysis/blob/main/Product_cluster_analysis_main.ipynb/ directory.
